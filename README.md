@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center"> Sagar Patel, Ph.D.</h1>
 <p align="center">
-  Bioinformatics Scientist • Genomics • Transcriptomics • Proteomics • ML/AI • AWS • Pipelines  
+  Bioinformatics Scientist • Genomics • Transcriptomics • Proteomics • ML/AI • AWS • Reproducible Pipelines  
 </p>
 
 ---
@@ -44,9 +44,10 @@
 
 ## 🚀 Research Focus
 
-- RNA-Seq, proteomics & cancer genomics  
-- Genome assembly (Illumina, PacBio HiFi, Nanopore, Hi-C)  
-- Automated pipelines & workflow engineering  
+- Genomics, RNA-Seq, proteomics & clinical data  
+- Genome assembly (Illumina, PacBio HiFi, Nanopore, Hi-C)
+- Variant calling and annotation 
+- Automated pipelines & workflow development  
 - ML/AI for multi-omics modeling  
 - R Shiny & Streamlit bioinformatics dashboards  
 - AWS-based deployment & containerized apps  
@@ -58,7 +59,6 @@
 
 - Advanced multi-omics ML/AI
 - Deep Learning
-- Workflow orchestration on AWS  
 - Nextflow DSL2 internal optimization  
 - Cloud-native bioinformatics services  
 - Complex visualization & report automation  
