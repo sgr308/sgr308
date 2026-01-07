@@ -46,7 +46,8 @@
 
 - Genomics, RNA-Seq, proteomics & clinical data  
 - Genome assembly (Illumina, PacBio HiFi, Nanopore, Hi-C)
-- Variant calling and annotation 
+- Variant calling and annotation pipeline using nextflow
+- Bulk RNA-Seq data analysis pipeline using Snakemake
 - Automated pipelines & workflow development  
 - ML/AI for multi-omics modeling  
 - R Shiny & Streamlit bioinformatics dashboards  
@@ -69,10 +70,12 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| **Variant Calling NF** | An end-to-end nextflow pipeline for variant calling | Nextflow • NGS • Docker |
+| **PRAD-AI** | Predict prostate cancer mutations | Python • scikit-learn • Streamlit |
+| **PRAD_SURV** | Gene Expression & Survival Analysis in Prostate Cancer | R Shiny • RNA-Seq • Survival analysis |
 | **Riboz ML** | Interactive RNA-Seq + ML platform deployed on AWS | R Shiny • Docker • AWS |
 | **GENOXA** | RNA-seq + biomarker prediction; NCI GDC Tool Challenge finalist | R Shiny • ML • AWS |
 | **PROMOR App** | LFQ proteomics DE + ML; used by 1,300+ users | R Shiny • R • ML |
-| **PRAD-AI** | Predict prostate cancer mutations | Python • scikit-learn • Streamlit |
 | **Cancer Risk Classifier** | High-/low-risk cancer classification | Python • ML |
 | **Genome Assembly Suite** | Illumina + PacBio HiFi + Nanopore + Hi-C | Snakemake • HPC |
 | **RNA-Seq Pipeline** | QC → Alignment → Quantification → DE | Snakemake • HISAT2 • STAR • R |
@@ -82,8 +85,14 @@
 ## 🧪 My Bioinformatics Applications
 
 <p>
+  <a href="https://sgrbnf.shinyapps.io/PRAD_SURV/" target="_blank">
+    <img src="https://img.shields.io/badge/PRAD_SURV%20-RNAseq%20-brightgreen?style=for-the-badge" />
+  </a><br>
+  <em>Gene Expression & Survival Analysis in Prostate Cancer</em>
+</p>
+<p>
   <a href="https://www.ribozml.com" target="_blank">
-    <img src="https://img.shields.io/badge/Riboz%20ML-RNAseq%20%2B%20ML-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Riboz%20ML-RNAseq%20%2B%20ML-red?style=for-the-badge" />
   </a><br>
   <em>Interactive bulk RNA-Seq analysis & machine learning platform deployed on AWS.</em>
 </p>
