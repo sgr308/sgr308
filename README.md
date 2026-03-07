@@ -74,7 +74,7 @@
 | **PRAD-AI** | Predict prostate cancer mutations | Python • scikit-learn • Streamlit |
 | **PRAD_SURV** | Gene Expression & Survival Analysis in Prostate Cancer | R Shiny • RNA-Seq • Survival analysis |
 | **Riboz ML** | Interactive RNA-Seq + ML platform deployed on AWS | R Shiny • Docker • AWS |
-| **GENOXA** | RNA-seq + biomarker prediction; NCI GDC Tool Challenge finalist | R Shiny • ML • AWS |
+| **GENOXA** | RNA-seq + biomarker prediction; NCI GDC Tool Challenge 2025 Winner | R Shiny • ML • AWS |
 | **PROMOR App** | LFQ proteomics DE + ML; used by 1,300+ users | R Shiny • R • ML |
 | **Cancer Risk Classifier** | High-/low-risk cancer classification | Python • ML |
 | **Genome Assembly Suite** | Illumina + PacBio HiFi + Nanopore + Hi-C | Snakemake • HPC |
@@ -101,7 +101,7 @@
   <a href="https://sgrbnf.shinyapps.io/GENOXA/" target="_blank">
     <img src="https://img.shields.io/badge/GENOXA-RNAseq%20Biomarkers-blueviolet?style=for-the-badge" />
   </a><br>
-  <em>RNA-Seq differential expression + biomarker discovery; finalist in the NCI GDC Tool Challenge.</em>
+  <em>RNA-Seq differential expression + biomarker discovery; Winner in the NCI GDC Tool Challenge 2025.</em>
 </p>
 
 <p>
